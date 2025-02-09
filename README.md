@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Talktodre-ops, my name is damilare, welcome to my portfolio. 
 - 👀 I’m interested in Artificial intelligence
 - 💞️ I’m looking to collaborate on machine learning projects, data analysis and artificial intelligence projects. 
-- 📫 i am very easy to reach, my email is damilare.segun.35@gmail.com
+- 📫 i am very easy to reach, my email is talktodre100@yahoo.com
 - my phone number is +2348100904662
 - 😄 Pronouns? 
 - ⚡ Fun fact: Laughter can boost your immune sysyem, a good laugh actually makes you healthier!
