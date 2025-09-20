@@ -19,6 +19,7 @@ I’m passionate about **solving meaningful problems with AI** — from detectin
   [🔗 View Repo »](https://github.com/Talktodre-ops/AI-detection-System)
 
 - 🏠 **Advanced House Price Prediction Model**  
+ This is a kaggle compitition: 
   Improved baseline RMSE by 25% using optimized ensemble models (XGBoost, Random Forest) and rich feature engineering.  
   [🔗 View Project »](https://github.com/Talktodre-ops/House-Price-Prediction)
 
