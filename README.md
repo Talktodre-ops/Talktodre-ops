@@ -5,7 +5,7 @@
 
 🎯 **Who I Am**
 
-I'm a versatile **Data Scientist and Machine Learning Engineer** who builds modular, production-ready systems with measurable business impact. Whether it’s designing AI-powered solutions, developing intuitive dashboards, or deploying full-stack ML products — I bring technical depth, creativity, and a data-driven mindset to every project.
+I'm a versatile **Data Scientist and Machine Learning Engineer** who builds modular, production-ready systems with measurable business impact. Whether it’s designing AI-powered solutions, developing intuitive dashboards, or deploying full-stack ML products. I bring technical depth, creativity, and a data-driven mindset to every project.
 
 💡 **What Drives Me?**  
 I’m passionate about **solving meaningful problems with AI** — from detecting AI-generated content, to building document summarizers, to voice cloning systems. I love experimenting at the intersection of **ML, automation, and creativity**.
@@ -23,7 +23,7 @@ I’m passionate about **solving meaningful problems with AI** — from detectin
   [🔗 View Project »](https://github.com/Talktodre-ops/House-Price-Prediction)
 
 - 📄 **AutoDoc (Coming Soon)**  
-  A SaaS tool that turns research papers or PDFs into smart summaries and key insights using LLMs.
+  A SaaS tool that stays in your IDE to help you at=uto document your progress as you code. .
 
 - 🗣️ **Voice Cloner & AI Voice Repeater (In Progress)**  
   Local-first real-time voice changer using RVC and privacy-focused voice cloning.
