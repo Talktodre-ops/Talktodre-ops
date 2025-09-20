@@ -16,7 +16,7 @@ I’m passionate about **solving meaningful problems with AI** — from detectin
 
 - 🧠 **AI-Generated Content Detection System**  
   Multi-method system using perplexity, stylometry, and explainability techniques to classify human vs AI writing.  
-  [🔗 View Repo »](https://github.com/Talktodre-ops/AI-Generated-Content-Detector)
+  [🔗 View Repo »](https://github.com/Talktodre-ops/AI-detection-System)
 
 - 🏠 **Advanced House Price Prediction Model**  
   Improved baseline RMSE by 25% using optimized ensemble models (XGBoost, Random Forest) and rich feature engineering.  
