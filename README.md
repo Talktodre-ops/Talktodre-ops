@@ -6,6 +6,7 @@
   <a href="https://talktodre.org">Portfolio</a> •
   <a href="https://linkedin.com/in/talktodre35">LinkedIn</a> •
   <a href="mailto:oolagunju@talktodre.org">Email</a>
+   <a href="https://prompt-hero.xyz">Visit for prompt Generation</a>
 </p>
 
 ---
@@ -44,36 +45,6 @@ Production fraud detection pipeline using Computer Vision (OpenCV), similarity s
 
 ---
 
-### 🎨 Prompt Hero - AI Image Prompt Platform
-**Client**: Commercial Product (Live)  
-**Impact**: 1,200+ active users • 5K+ prompts/month • 260+ curated prompts
-
-Full-stack SaaS platform for AI prompt engineering. Features reverse-engineering (upload image → get prompt), AI prompt enhancement (Gemini AI), and optimized backend with GitHub Actions for cost-effective deployment.
-
-**Tech**: Next.js, Supabase, Gemini AI, Vercel, Render, GitHub Actions  
-[🔗 View Repo](https://github.com/Talktodre-ops/AI_PromptTools_Full) • [🌐 Live Site](https://prompt-hero.xyz)
-
----
-
-### 🛒 E-Commerce Recommendation System
-**Client**: Streetwear Brand (Proprietary)  
-**Impact**: 50K+ vector embeddings • 40% conversion increase • Production deployment
-
-End-to-end e-commerce platform with ML-powered recommendation engine and integrated FAQ chatbot. Similarity search implementation with top-k recommendations.
-
-**Tech**: Python, FastAPI, PostgreSQL, NLP, Recommendation Systems, Vector DBs
-
----
-
-### 🏥 Medical Chatbot with Knowledge Graph
-**Client**: Healthcare Platform  
-**Impact**: 100K+ medical entities • 92% accuracy • RAG system
-
-Retrieval-Augmented Generation (RAG) system combining vector embeddings with structured medical knowledge graph for accurate healthcare queries.
-
-**Tech**: Vector DB, Knowledge Graph, RAG, Python, FastAPI, PostgreSQL
----
-
 ## 🛠️ Technical Skills
 
 ### Languages & Core
@@ -109,13 +80,6 @@ Domains:          Computer Vision, NLP, Time Series, Deep Learning,
 - **Business Impact**: 40% conversion increase, 87% fraud reduction, $500K+ losses prevented
 - **Efficiency**: 85% reduction in manual review time, 70% reduction in data prep time
 - **Cost Optimization**: 35% reduction in inference costs, 40% reduction in storage costs
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science with Mathematics**  
-Obafemi Awolowo University (OAU), Ile-Ife, Nigeria | 2018 - 2022
 
 ---
 
