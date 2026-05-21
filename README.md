@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Damilare 👋</h1>
 
-<h3 align="center">Machine Learning Engineer | Production AI Systems | Full-Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://talktodre.org">Portfolio</a> •
@@ -13,7 +13,7 @@
 
 ## 🎯 Who I Am
 
-**4 years** of experience building **production-ready ML systems** that solve real business problems. I specialize in taking AI/ML projects from concept to deployment, with a track record of systems running in production for **universities, e-commerce platforms, and real estate companies**.
+**5 years** of experience building **production-ready ML systems** that solve real business problems. I specialize in taking AI/ML projects from concept to deployment, with a track record of systems running in production for **universities, e-commerce platforms, and real estate companies**.
 
 **Background**: Computer Science + Mathematics (B.Sc., Obafemi Awolowo University)
 
