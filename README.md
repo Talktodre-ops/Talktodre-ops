@@ -1,8 +1,8 @@
 # Anderson Victor
 
-**Full-Stack Engineer — Data & AI.** I build and own production systems end-to-end: backend, frontend, data, and the infra that keeps them running.
+**Software Architect | AI/Machine Learning Engineer** With 5+ years of experience, I build and own production systems end-to-end: backend, frontend, data, and the infra that keeps them running.
 
-What I'm good at: taking a messy, business-critical operation and turning it into software people can actually depend on — offline-first, observable, and hard to break.
+ What I'm good at: taking a messy, business-critical operation and turning it into software people can actually depend on — offline-first, observable, and hard to break.
 
 🌐 [talktodre.org](https://talktodre.org) · 💼 [LinkedIn](https://linkedin.com/in/talktodre35) · ✉️ talktodre100@yahoo.com
 
