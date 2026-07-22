@@ -29,6 +29,4 @@ An award winning Multi-layered ML system combining BERT/RoBERTa transformers wit
 
 ---
 
-*Currently open to full-stack / backend / data engineering roles. Reach out → talktodre100@yahoo.com*
-
-<sub>Previously published as Olagunju Oluwadamilare.</sub>
+*Currently open to full-stack / backend / data engineering roles. Reach out → va@andersonvictor.com*
